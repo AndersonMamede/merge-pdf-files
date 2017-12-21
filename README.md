@@ -1,5 +1,4 @@
-# merge-pdf-files
-Merge PDF files
+# Merge PDF files
 
 Clone this repository:
 
